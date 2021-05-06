@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Razvan Zamfir. I live in Bucharest, Romania.
+
 - 🔭 I’m currently working at Technology Reply.
 - 🌱 I’m currently learning more PHP.
 - 👯 I’m looking to collaborate on [Bravecms](https://github.com/Ajax30/Bravecms/).
