@@ -3,7 +3,7 @@
 My name is Razvan Zamfir. I live in Bucharest, Romania.
 
 - 🌱 I’m currently learning more PHP.
-- 👯 I’m looking to collaborate on [Bravecms](https://github.com/Ajax30/Bravecms/).
+- 👯 I’m looking to collaborate on [Bravecms]([https://github.com/Ajax30/Bravecms/](https://github.com/Ajax30/BraveCMS-2.0)).
 - 📫 How to reach me: at [razvan.zamfir80@gmail.com](mailto:razvan.zamfir80@gmail.com).
 
 ## How I stand on codersrank.io
